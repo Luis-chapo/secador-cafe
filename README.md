@@ -99,21 +99,6 @@ Auto:35% AJUS ← Línea 2: Potencia actual y estado de secado
 | `STATUS` | Ver estado completo (T, H, calor, SD, logs) |
 | `HELP` | Lista de comandos |
 
-## 📁 Estructura del repositorio
-
-secador-cafe/  
-├── src/  
-│ └── secador_cafe.ino # Código fuente principal  
-├── hardware/  
-│ ├── esquematico.png # Diagrama de conexiones  
-│ └── pcb.png # Diseño PCB  
-├── fotos/  
-│ ├── prototipo_1.jpg  
-│ └── prototipo_2.jpg  
-├── datos/  
-│ └── ejemplo_log.csv # Ejemplo de datos registrados  
-└── README.md  
-
 
 ## Librerías requeridas
 
