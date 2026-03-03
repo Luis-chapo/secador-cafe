@@ -108,6 +108,20 @@ Wire.h (incluida en Arduino IDE)
 LiquidCrystal_I2C.h  
 DHT.h (Adafruit DHT sensor library)  
 
+## 📸 Galería del proyecto
+
+### LCD en operación
+![LCD funcionando](lcd_funcionando.jpeg)
+
+### Interior del secador con foco infrarrojo activo
+![Interior del secador](interior_secador.jpeg)
+
+### Circuito electrónico
+![Circuito electrónico](circuito_electronico.jpeg)
+
+### Sistema completo instalado
+![Sistema completo](sistema_completo.jpeg)
+
 ## 👨‍💻 Desarrollador
 
 Hardware + Software: **Luis Miguel Chapoñan Baldera**  
